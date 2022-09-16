@@ -1,4 +1,4 @@
-public class App {
+public class jSort {
     public static void main(String[] args){
     int list[] = new int[5];
     list[0] = 5;        
